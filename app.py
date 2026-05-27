@@ -11,7 +11,7 @@ Original file is located at
 # %%writefile app.py
 # 
 # 
- import streamlit as st
+# import streamlit as st
  import fastf1
  import pandas as pd
  import numpy as np
